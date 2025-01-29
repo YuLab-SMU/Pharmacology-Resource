@@ -3,6 +3,8 @@
 + Human Cell Atlas
 + PharmacoDb, <https://pharmacodb.ca/>
     - [PharmacoDB 2.0: improving scalability and transparency of in vitro pharmacogenomics analysis](https://academic.oup.com/nar/article/50/D1/D1348/6438034)
++ [LINCS](https://lincsproject.org/)
+    - The Library of Integrated Network-Based Cellular Signatures (LINCS) Program aims to create a network-based understanding of biology by cataloging changes in gene expression and other cellular processes that occur when cells are exposed to a variety of perturbing agents.
 
 ## 软件工具
 
